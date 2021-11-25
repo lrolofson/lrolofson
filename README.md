@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lrolofson
 - 👀 I’m interested in all things that go bleep and bloop.
-- 🌱 I’m currently teaching myself to make responsive, graceful web applications (catch me on codepen as some-user).
+- 🌱 I’m currently teaching myself to build responsive, graceful web pages (catch me on codepen as some-user).
 - 💞️ I'd love to collaborate on something that helps me build my skills but isn't critical because I am still a wee babby programmer.
 
 <!---
