@@ -1,6 +1,6 @@
 Hi, I'm Leland Rolofson. I'm interested in all things that go bleep and bloop. 
 
-Right now I code as a hobby. I've screwed around with Python, JavaScript, and C (via Arduino and PlatformIO). I've also enjoyed programming in video games like TIS-100, Shenzhen I/O, and Kerbal Space Program (via kOS).
+Right now I code as a hobby. I've screwed around with Python, JavaScript (@some-user on codepen), and C (via Arduino and PlatformIO). I've also enjoyed programming in video games like TIS-100, Shenzhen I/O, and Kerbal Space Program (via kOS).
 
 Doing it as a hobby is fine, but at some point I'd like to do it for money. To that end I've taken a break from projects to focus on learning how to think about software more effectively so I can write software that's actually good. Right now I'm working my way through *Clean Code* by Robert C. Martin. 
 
